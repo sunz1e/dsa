@@ -22,3 +22,20 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/build/reports/tests/test/css/base-style.css
+/build/reports/tests/test/packages/default-package.html
+/.idea/modules/dsa.main.iml
+/.idea/modules/dsa.test.iml
+/build/reports/tests/test/index.html
+/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId0
+/.gradle/8.8/checksums/md5-checksums.bin
+/.idea/modules.xml
+/build/test-results/test/binary/output.bin
+/build/test-results/test/binary/output.bin.idx
+/build/reports/tests/test/js/report.js
+/build/test-results/test/binary/results.bin
+/build/reports/tests/test/classes/RevisionListSpec.html
+/.gradle/8.8/checksums/sha1-checksums.bin
+/build/reports/tests/test/css/style.css
+/build/test-results/test/TEST-RevisionListSpec.xml
+/.idea/uiDesigner.xml
